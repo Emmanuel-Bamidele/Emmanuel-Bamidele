@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/62cvyB5y622I0/giphy.gif" alt="Minimalist Plexus GIF">
+  <img src="https://media.giphy.com/media/l4pTkyAlroIy3f5g4/giphy.gif" alt="Futuristic HUD GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
