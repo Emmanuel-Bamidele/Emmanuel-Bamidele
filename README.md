@@ -85,6 +85,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Bamidele&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Bamidele&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-Bamidele&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
