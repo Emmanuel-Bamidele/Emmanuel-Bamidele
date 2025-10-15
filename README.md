@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Code Typing GIF">
+  <img src="https://media.giphy.com/media/62cvyB5y622I0/giphy.gif" alt="Minimalist Plexus GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
