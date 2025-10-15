@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/Baimam-CAPD/Baimam-CAPD/main/line.gif" width="100%" alt="Line Divider">
 </p>
 
-<h2 align="center">🚀 My Portfolio & Projects</h2>
+<h2 align="center">🚀 Some Projects</h2>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr align="center">
