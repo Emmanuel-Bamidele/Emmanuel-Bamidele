@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Baimam-CAPD/Baimam-CAPD/main/Header.png" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Matrix Coder GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
