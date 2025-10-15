@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/3932sW0.gif" alt="Geometric Grid GIF">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Matrix Coder GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
