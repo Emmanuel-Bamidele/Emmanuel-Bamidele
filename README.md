@@ -3,7 +3,7 @@
 <p align="center">
   I'm a passionate 🚀 **Engineer** and **Computer Scientist** building in the US.
   <br />
-  I specialize in turning complex ideas into modular, scalable, and user-friendly web applications. Below are some of the products I've built!
+  I specialize in turning complex ideas into modular, scalable, and user-friendly applications. Below are some of my recent projects!
 </p>
 
 <p align="center">
