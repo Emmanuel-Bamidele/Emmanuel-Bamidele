@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Matrix Coder GIF">
-</p>
-
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
 
 <p align="center">
