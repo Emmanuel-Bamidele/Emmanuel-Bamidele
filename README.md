@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="250px" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm [Your Name/Alias]!</h1>
+<h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
 
 <p align="center">
   I'm a passionate 🚀 **Software Engineer** and **Web Application Builder** with a knack for crafting robust, scalable, and user-friendly solutions. I love turning complex problems into elegant code and seeing ideas come to life on the web!
