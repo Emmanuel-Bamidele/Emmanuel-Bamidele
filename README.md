@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/IuVFmC5i2dm0w/giphy.gif" alt="Developer's Desk GIF">
+  <img src="https://i.imgur.com/5So2S13.gif" alt="Lo-fi Coding GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
