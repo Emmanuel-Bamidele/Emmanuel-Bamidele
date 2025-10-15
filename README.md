@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
 
 <p align="center">
-  I'm a passionate 🚀 **Software Engineer** and **SaaS Founder** from Hillsboro, Oregon.
+  I'm a passionate 🚀 **Engineer** and **Computer Scientist** building in the US.
   <br />
   I specialize in turning complex ideas into robust, scalable, and user-friendly web applications. Below are some of the products I've built!
 </p>
