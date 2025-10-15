@@ -89,13 +89,10 @@
 <p align="center">
   Feel free to reach out for collaborations or just a friendly chat!
   <br /><br />
-  <a href="your-linkedin-url" target="_blank">
+  <a href="[your-linkedin-url](https://www.linkedin.com/in/emmanuelbamidele/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="your-portfolio-url" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:your-email" target="_blank">
+  <a href="mailto:correspondence.bamidele@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
