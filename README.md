@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5So2S13.gif" alt="Lo-fi Coding GIF">
+  <img src="https://i.imgur.com/3932sW0.gif" alt="Geometric Grid GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
