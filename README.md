@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Abstract Globe GIF" width="800">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Code Typing GIF">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
