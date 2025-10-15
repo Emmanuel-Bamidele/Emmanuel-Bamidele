@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Matrix Coder GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Abstract Globe GIF" width="800">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel!</h1>
